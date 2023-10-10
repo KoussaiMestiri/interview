@@ -1,0 +1,18 @@
+[
+  {
+    "base_costs": 800,
+    "cap": 4000,
+    "is_cap": true,
+    "_id": 6536,
+    "tariff_name": "Package tariff",
+    "consumption_costs": 30
+  },
+  {
+    "base_costs": 5,
+    "cap": 0,
+    "is_cap": false,
+    "_id": 74662,
+    "tariff_name": "basic electricity tariff",
+    "consumption_costs": 22
+  }
+]
